@@ -26,7 +26,7 @@
   <a target="_blank" href="https://www.linkedin.com/in/jjerezv/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a target="_blank" href="jerezvelasquez.j@gmail.com">
+  <a target="_blank" href="mailto:jerezvelasquez.j@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a target="_blank" href="https://discordapp.com/users/889154834421383198">
