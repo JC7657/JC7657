@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">✨ En busca de trabajo como desarrollador web Full-Stack.<br>📚 Actualmente profundizando mis conocimientos en React y Node.<br>🎯 Objetivos: Aprender nuevos frameworks de programación (Ahí voy, Angular).<br>🎲 Amante de la música y los juegos de mesa.</p>
+<p align="left">✨ En busca de trabajo como desarrollador web Full-Stack.<br>📚 Actualmente profundizando mis conocimientos en React y Node.<br>🎯 Objetivos: Aprender nuevos frameworks de programación (Angular y Next.js).<br>🎲 Amante de la música y los juegos de mesa.</p>
 
 ###
 
